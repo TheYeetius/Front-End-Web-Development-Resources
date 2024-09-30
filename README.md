@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/RitikPatni/Front-End-Web-Development-Resources.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20this%20Amazing%20Resource:&url=https%3A%2F%2Fgithub.com%2FRitikPatni%2FFront-End-Web-Development-Resources)
 
 # Front-end development
-
+# Modified by Thomas to see that we can change the branch
 # Hi There
 
 <p>
